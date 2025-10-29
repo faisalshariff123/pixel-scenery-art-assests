@@ -15,7 +15,7 @@ This repo showcases my growth in visual environment design — focusing on light
 ## 🧰 Technical Info
 
 - Dimensions vary depending on usage (desktop/full-screen vs mobile); main focus is on 16 : 9 aspect ratio or square crops.  
-- Created using Aseprite (or other pixel-art tools) + exported as PNG.  
+- Created using [piskelapp.com] + exported as PNG.  
 - Files kept simple and organized: more scene categories will be added over time.
 ---
 
