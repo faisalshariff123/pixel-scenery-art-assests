@@ -14,7 +14,7 @@ This repo showcases my growth in visual environment design such as focusing on l
 ## Technical Info
 
 - Dimensions vary depending on usage (desktop/full-screen vs mobile); main focus is on square crops.  
-- Created using [piskelapp.com], [pixelorama] and exported as PNG.  
+- Created using [piskelapp.com](piskelapp.com) and Pixelorama and exported as PNG.  
 - Files kept simple and organized: more scene categories will be added over time.
 ---
 
