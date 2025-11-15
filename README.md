@@ -1,4 +1,3 @@
-# pixel-scenery-art-assests
 # Pixel Scenery Art Assets
 
 A personal collection of pixel-based environment artwork created by **Faisal Shariff**.  
