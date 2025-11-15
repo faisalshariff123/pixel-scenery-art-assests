@@ -37,12 +37,6 @@ You’ll find these assets used in the following projects:
 
 ---
 
-## About Me
-
-I’m a Computer Science & Linguistics student at San Jose State University, with a passion for blending code + creativity. From fullstack web apps and AI projects to pixel worlds and game prototypes, this repo is part of that journey.
-
----
-
 *Last updated: 2025-11-14*  
 
 
