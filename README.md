@@ -28,15 +28,6 @@ If you’d like to use them commercially or collaborate, please contact me direc
 
 ---
 
-## Integration in My Projects
-
-You’ll find these assets used in the following projects:
-
-- Sleep Copilot – Web app with ambient visual theme and pixel-art backgrounds.  
-- Weather But Worse – Playful AI weather visualization web app using my pixel scenes for UI/backdrops.
-
----
-
 *Last updated: 2025-11-14*  
 
 
