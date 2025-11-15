@@ -1,6 +1,6 @@
 # Pixel Scenery Art Assets
 
-A personal collection of pixel-based environment artwork created by **Faisal Shariff**.  
+A personal collection of pixel based environment artwork created by **Faisal Shariff**.  
 These scenes are used across multiple web and game-style projects to build immersive backgrounds and visual consistency.
 
 ---
